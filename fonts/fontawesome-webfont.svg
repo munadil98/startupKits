@@ -20,17 +20,17 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>startup-kit/FontAwesome.otf at master · rashedxyz/startup-kit</title>
+  <title>startup-kit/fontawesome-webfont.svg at master · rashedxyz/startup-kit</title>
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
 
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTU1MzE1OTQ0OjFhNThmMzViMmIzNTcwNmZmMDBlYzA5Y2VmMDM5NWY3NmUyMjkyZjYyZjg3MTg2NDIzMjI3ZmJlMDQ5MDExMDE=--ffa5e49d762395e68b62453000d492cc787d7384">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTU1MzE1OTQ0OjNiMGQwYjBjMDU5NDdkOGRiNWI2MTAxYTA5ODE1ZGIzZjliNjk3MzJiNjk0N2U3OGYxMjAzYmQ5ZGU2YjRjYjM=--7fe3004606ca0cb871627367a54420721c499a27">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="7194:294C8:417CDA7:6AC761A:58ABBF3F" data-pjax-transient>
+  <meta name="request-id" content="719D:294CD:34A39D4:55B205A:58ABBF51" data-pjax-transient>
   
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
@@ -39,7 +39,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="7194:294C8:417CDA7:6AC761A:58ABBF3F" name="octolytics-dimension-request_id" /><meta content="24988589" name="octolytics-actor-id" /><meta content="munadil98" name="octolytics-actor-login" /><meta content="931f3eb4c7a5becc43fa91cc2273cccf0562aa8bfa0f3f84254fa9b61ca3d7ab" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="719D:294CD:34A39D4:55B205A:58ABBF51" name="octolytics-dimension-request_id" /><meta content="24988589" name="octolytics-actor-id" /><meta content="munadil98" name="octolytics-actor-login" /><meta content="931f3eb4c7a5becc43fa91cc2273cccf0562aa8bfa0f3f84254fa9b61ca3d7ab" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -52,7 +52,7 @@
   <meta name="user-login" content="munadil98">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="OGExMzYxM2NiMTA2ODcwYjEyNmE4ZmViODQyYjg1ZDA1MTQ4ZTYzZDhjZmVjZjFkODlkZTBjNDJiNzM4NTExZHx7InJlbW90ZV9hZGRyZXNzIjoiMTAzLjIwNS4xMzUuMTkiLCJyZXF1ZXN0X2lkIjoiNzE5NDoyOTRDODo0MTdDREE3OjZBQzc2MUE6NThBQkJGM0YiLCJ0aW1lc3RhbXAiOjE0ODc2NTA2MzAsImhvc3QiOiJnaXRodWIuY29tIn0=">
+    <meta name="js-proxy-site-detection-payload" content="NjhiYTliZDVjMDJjNTY4MzFhOWZmODUyN2YxZWU0NzJhYWE2NDM2ZmI1ZmMxNTQ4NTI1YzA5YzFhNGQxZWVmOXx7InJlbW90ZV9hZGRyZXNzIjoiMTAzLjIwNS4xMzUuMTkiLCJyZXF1ZXN0X2lkIjoiNzE5RDoyOTRDRDozNEEzOUQ0OjU1QjIwNUE6NThBQkJGNTEiLCJ0aW1lc3RhbXAiOjE0ODc2NTA2NDYsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
 
   <meta name="html-safe-nonce" content="9ed412a83966b9f8c180c377f731f44974631e7c">
@@ -68,7 +68,7 @@
   <link href="https://github.com/rashedxyz/startup-kit/commits/master.atom" rel="alternate" title="Recent Commits to startup-kit:master" type="application/atom+xml">
 
 
-    <link rel="canonical" href="https://github.com/rashedxyz/startup-kit/blob/master/fonts/FontAwesome.otf" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/rashedxyz/startup-kit/blob/master/fonts/fontawesome-webfont.svg" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -223,7 +223,7 @@
           Settings
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="/bGf+nufzHE5hWq6IPW1WWcgIHXAFof/CPuWxYWD3q9DEELpTYEPjeJnQhw+cqXLpJzc+F5Bm3haTRtxtETgPw==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="IP2iQOduAx95nZv38TlAYXlkcHIR1WXZvzrG2WrBWDyeXH9T0XDA46J/s1HvvlDzutiM/4+CeV7tjEttWwZmrA==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -232,7 +232,7 @@
   </li>
 </ul>
 
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="qLCshucehWrNeMsZMosCe46ZB7wHylvFhhdK+PAaRaIWEXGV0QBGlhaa478sDBLpTSX7MZmdR0LUocdMwd17Mg==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ikn77yoQNHUN5i60o0lWOKw3K0N7qgvWeFAlDuCgMSs06Cb8HA73idYEBhK9zkaqb4vXzuX9F1Eq5qi60WcPuw==" /></div>
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
         Sign out
       </button>
@@ -267,7 +267,7 @@
 <ul class="pagehead-actions">
 
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="MYGsB+dNXLMASRSG0XJz8kdkK0TOLdZXo9Yu6/beyGDTd+F/NEZaFEufk3LXFPHyDpNuEHTBUZHWoHFcY1h2yw==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="82633089" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="k3H2T6hAomOSj9LDI6GWT5dbrQfl8LOUBNlLvM1sXEdxh7s3e0ukxNlZVTclxxRP3qzoU18cNFJxrxQLWOri7A==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="82633089" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/rashedxyz/startup-kit/subscription"
@@ -342,7 +342,7 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/rashedxyz/startup-kit/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="M9jYxntNKRGyc4ucqPwrtPV7+wWxU+aoRiBtW/Vy2sTYvTJVex3+1BUcCRmG8RcXoJYSCHioKWux6lpO+C9+3Q==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/rashedxyz/startup-kit/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="XQxHf4fA1OaNWjEwBHaw3B8xBTfYKy47eUwOr4Z8e522aa3sh5ADIyo1s7Uqe4x/StzsOhHQ4fiOhjm6iyHfhA==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -356,7 +356,7 @@
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/rashedxyz/startup-kit/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="PjRLxssdwxadIRXEqxE+m6T0np4hIw8oUDLYDVDal7XVVb5P19LDxolVfiYw7Q29Ddqkhz9XEqrhWjt+3+mwRQ==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/rashedxyz/startup-kit/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="9J+Ee1Cn4NLjDvBG5K7KcCclHZewy5JitnhZdvSH6rwf/nHyTGjgAvd6m6R/UvlWjgsnjq6/j+AHELoFe7TNTA==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -374,7 +374,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/rashedxyz/startup-kit/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="E2TeKQY9kzCcAE8usaY4g0G4sSEE0Xou+ekLtFFQnJ2nBV1HRbRoQSDr/WFKwgX1pA4cyh9Rhcj7bMZBgPFMoQ==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/rashedxyz/startup-kit/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="UG68yn9063q6a0xbjGni6GphtwSBr54YfbtKDtbTRtvkDz+kPP0QCwaA/hR3Dd+ej9ca75ovYf5/Pof7B3KW5w==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -461,9 +461,9 @@
 
     
 
-<a href="/rashedxyz/startup-kit/blob/4cbdc8a2ead66173f367f353d0726b34819b5937/fonts/FontAwesome.otf" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/rashedxyz/startup-kit/blob/4cbdc8a2ead66173f367f353d0726b34819b5937/fonts/fontawesome-webfont.svg" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:f342cc4257d8f42277889f06d8acec07 -->
+<!-- blob contrib key: blob_contributors:v21:bc2cc7f9c529f4c40486577456c5b351 -->
 
 <div class="file-navigation js-zeroclipboard-container">
   
@@ -505,7 +505,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/rashedxyz/startup-kit/blob/master/fonts/FontAwesome.otf"
+               href="/rashedxyz/startup-kit/blob/master/fonts/fontawesome-webfont.svg"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -542,11 +542,11 @@
     <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
   </div>
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/rashedxyz/startup-kit"><span>startup-kit</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/rashedxyz/startup-kit/tree/master/fonts"><span>fonts</span></a></span><span class="separator">/</span><strong class="final-path">FontAwesome.otf</strong>
+    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/rashedxyz/startup-kit"><span>startup-kit</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/rashedxyz/startup-kit/tree/master/fonts"><span>fonts</span></a></span><span class="separator">/</span><strong class="final-path">fontawesome-webfont.svg</strong>
   </div>
 </div>
 
-<include-fragment class="commit-tease" src="/rashedxyz/startup-kit/contributors/master/fonts/FontAwesome.otf">
+<include-fragment class="commit-tease" src="/rashedxyz/startup-kit/contributors/master/fonts/fontawesome-webfont.svg">
   <div>
     Fetching contributors&hellip;
   </div>
@@ -560,10 +560,21 @@
 <div class="file">
   <div class="file-header">
   <div class="file-actions">
+      <div class="BtnGroup">
+        <a class="btn btn-sm BtnGroup-item tooltipped tooltipped tooltipped-n source "
+          href="/rashedxyz/startup-kit/blob/master/fonts/fontawesome-webfont.svg?short_path=855c845" aria-label="Display the source blob">
+          <svg aria-hidden="true" class="octicon octicon-code" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
+        </a>
+        <a class="btn btn-sm BtnGroup-item tooltipped tooltipped-n rendered selected"
+          href="/rashedxyz/startup-kit/blob/master/fonts/fontawesome-webfont.svg" aria-label="Display the rendered blob">
+          <svg aria-hidden="true" class="octicon octicon-file-text" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M6 5H2V4h4v1zM2 8h7V7H2v1zm0 2h7V9H2v1zm0 2h7v-1H2v1zm10-7.5V14c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h7.5L12 4.5zM11 5L8 2H1v12h10V5z"/></svg>
+        </a>
+      </div>
 
     <div class="BtnGroup">
-      <a href="/rashedxyz/startup-kit/raw/master/fonts/FontAwesome.otf" class="btn btn-sm BtnGroup-item" id="raw-url">Download</a>
-      <a href="/rashedxyz/startup-kit/commits/master/fonts/FontAwesome.otf" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+      <a href="/rashedxyz/startup-kit/raw/master/fonts/fontawesome-webfont.svg" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/rashedxyz/startup-kit/blame/master/fonts/fontawesome-webfont.svg" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
+      <a href="/rashedxyz/startup-kit/commits/master/fonts/fontawesome-webfont.svg" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
@@ -573,7 +584,12 @@
             <svg aria-hidden="true" class="octicon octicon-device-desktop" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/rashedxyz/startup-kit/delete/master/fonts/FontAwesome.otf" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="CtgTLMYZAokWmWtCWCw1anapom3kr/1GLgE6y5IhPfs7N/Rk/K24hMARKAeDuDVUZzEBSNZ32l7YiTlUoXCG0g==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/rashedxyz/startup-kit/edit/master/fonts/fontawesome-webfont.svg" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="vvylCIo97+7VTqoUjEfQ7ZHcUMkOx55eIjOlMJqib6Pk1jh1D6IvyTA2iyxq+Bbz0Fe4cfX9t3hJ7NVfrSMpRA==" /></div>
+          <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
+            aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
+            <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
+          </button>
+</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/rashedxyz/startup-kit/delete/master/fonts/fontawesome-webfont.svg" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="w9AJwXA+SOuArOtm3WWXi5k8ClPF2v9SPzFZEOBAO3XW8CXt2Y2EnFktA8xJHdHWc+0pjIMM8gZio9AlUGXzsw==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -581,16 +597,29 @@
 </form>  </div>
 
   <div class="file-info">
-    132 KB
+      2672 lines (2671 sloc)
+      <span class="file-info-divider"></span>
+    434 KB
   </div>
 </div>
 
   
 
-  <div itemprop="text" class="blob-wrapper data type-text">
-      <div class="image">
-          <a href="/rashedxyz/startup-kit/blob/master/fonts/FontAwesome.otf?raw=true">View Raw</a>
-      </div>
+  <div itemprop="text" class="blob-wrapper data type-svg">
+      
+  <div class="render-wrapper">
+    <div class="render-container is-render-pending js-render-target "
+      data-identity="67c694ff-1dc0-490a-9922-dd21692698c6"
+      data-host="https://render.githubusercontent.com"
+      data-type="svg">
+      <img alt="" class="octospinner" height="64" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-128.gif" width="64" />
+      <div class="render-viewer-error">Sorry, something went wrong. <a href="https://github.com/rashedxyz/startup-kit/blob/master/fonts/fontawesome-webfont.svg">Reload?</a></div>
+      <div class="render-viewer-fatal">Sorry, we cannot display this file.</div>
+      <div class="render-viewer-invalid">Sorry, this file is invalid so it cannot be displayed.</div>
+      <iframe class="render-viewer" src="https://render.githubusercontent.com/view/svg?commit=4cbdc8a2ead66173f367f353d0726b34819b5937&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f72617368656478797a2f737461727475702d6b69742f346362646338613265616436363137336633363766333533643037323662333438313962353933372f666f6e74732f666f6e74617765736f6d652d776562666f6e742e737667&amp;nwo=rashedxyz%2Fstartup-kit&amp;path=fonts%2Ffontawesome-webfont.svg&amp;repository_id=82633089#67c694ff-1dc0-490a-9922-dd21692698c6" sandbox="allow-scripts allow-same-origin allow-top-navigation">Viewer requires iframe.</iframe>
+    </div>
+  </div>
+
   </div>
 
 </div>
@@ -628,7 +657,7 @@
       <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2017 <span title="0.10941s from github-fe120-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2017 <span title="0.11153s from github-fe149-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
